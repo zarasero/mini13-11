@@ -1,1 +1,1 @@
-# mini13-11
+gcc *.c -lreadline
